@@ -5,11 +5,11 @@ Mūsdienās pastāv daudz šausmu spēles, kā arī daudz puzles šausmu spēles
 
 
 
-# Pašlaik pastāv šādi analogi:
+### Pašlaik pastāv šādi analogi:
 
 Inside the Backrooms - šo spēli var spēlēt vairāki cilvēki kopā. Spēles mērķis ir izmeklēt visu mapi, izvairīties no entītijām, un izdzīvot. Spēlei ir vidējas grafikas un vairākas entītijas, bet tikai divas mapes.
 
 The Complex: Found Footage – šajā spēlē ir ļoti kvalitatīvas grafikas, labs skaits dažādu spēlējamu lokāciju un ļoti labi izveidota biedējoša atmosfēra, kas ir visgalvenākais elements šāda žanra šausmu spēlei. Izstrādātājs ir pievienojis VHS kamera efektu, kas palīdz spēlētājam iegremdēties neērtajā atmosfērā. Šī spēle galvenokārt koncentrējās uz lokācijām un to izpētīšanu, tāpēc šeit nav nevienu entītīju ar mērķi nobiedēt spēlētāju.
 
-# Ar ko šī lietotne atzšķirsies:
+### Ar ko šī lietotne atzšķirsies:
 Uncanny Spaces neprasīs stipru datorsistēmu, tai būs laba un baismīga atmosfēra, labi skaņas efekti, dažādu funkciju un objektu, enerģijas sistēma, entītiju, kas padarīs spēli aizraujošāku, un galvenokārt - biedējošaka spēles gaita.
