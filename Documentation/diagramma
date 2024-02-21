@@ -1,0 +1,1 @@
+	Spēlētājs lietojot lietotāja interfeisu, var izvēlēties, kuru mapu viņš vēlās spēlēt, un uzsākt spēli. Spēlētājs ir tikai viens, bet var būt vairākas entītijas, kas darbojas ar spēletāju. Lietotāja interfeisā var izvēlēties vienu no vairākām mapēm. Katrā mapē ir viens vai vairāki objekti, ar ko spēlētājs var darboties. Spēlētājam ir enerģija, kas tiek patērēta kad viņš skrien.
